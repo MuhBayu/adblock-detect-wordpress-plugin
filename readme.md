@@ -1,5 +1,5 @@
 ## adBDetect Wordpress Plugin
-[https://github.com/MuhBayu/adblock-detect-wordpress-plugin](http://https://github.com/MuhBayu/adblock-detect-wordpress-plugin "https://github.com/MuhBayu/adblock-detect-wordpress-plugin")
+[https://github.com/MuhBayu/adBDetect](https://github.com/MuhBayu/adBDetect "https://github.com/MuhBayu/adBDetect")
 
 **Support**:
 - AdBlock
